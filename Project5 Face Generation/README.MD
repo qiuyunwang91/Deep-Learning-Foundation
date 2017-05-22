@@ -1,1 +1,1 @@
-Project 5 Face Generation
+Deep Learning Nano Degree - Project5: Face Generation
